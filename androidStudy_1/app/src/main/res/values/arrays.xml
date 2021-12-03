@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="titles">
+        <item>"The wizard of OZ(1939)"</item>
+        <item>"Citizen Kane(1941)"</item>
+        <item>"All About Eve(1950)"</item>
+        <item>"The Third Man(1949)"</item>
+        <item>"A Hard Day's Night(1964)"</item>
+        <item>"Moder Times(1936)"</item>
+        <item>"Metropolis(1927)"</item>
+        <item>"Metropolis(1927)"</item>
+        <item>"Metropolis(1927)"</item>
+        <item>"Metropolis(1927)"</item>
+    </string-array>
+</resources>
